@@ -1,0 +1,84 @@
+{
+    "skills": [
+        {
+            "id":"1",
+            "src": "./img/product-chain-1.png",
+            "title":"Full-Stack",
+            "description": "Expert in building responsive, user-friendly interfaces with HTML, CSS, JavaScript,SQL, and React."
+
+        },
+        {
+            "id":"2",
+            "src": "./img/tag-1.png",
+            "title":"Back-End",
+            "description": "Skilled in developing scalable server-side applications using Node.js, Express, and SQL."
+
+        },
+        {
+            "id":"3",
+            "src": "./img/feather-pen-2.png",
+            "title":"Cloud",
+            "description": "Proficient in configuring and managing networks, ensuring secure and efficient connectivity."
+        },
+        {
+            "id":"4",
+            "src": "./img/feather-pen-1.png",
+            "title":"Pentesting",
+            "description": "Aspiring penetration tester learning the basics of network security and ethical hacking. Exploring tools like Nmap, Burp Suite, and Metasploit while building skills in identifying vulnerabilities and protecting systems."
+        }
+    ],
+    "portfolio": [
+        
+            {
+                "id":"1",
+                "src": "./img/placeholder-image.png",
+                "title":"Cybersecurity Analytics",
+                "description": "Vanguard Analytics bridges the gap between data analytics and cybersecurity by extracting insights from datasets to reveal connections and trends that enhance security decision-making.",
+                "link":"View In Github"
+            },
+            {
+                "id":"2",
+                "src": "./img/placeholder-image-1.png",
+                "title":"Certificates",
+                "description": "Currently, I hold a Security+ from CompTIA, and plan on receiving Net+ and Cysa+ by fall of 2025 to further my knowledge.",
+                "link":"View In Github"
+            },
+            {
+                "id":"3",
+                "src": "./img/placeholder-image-2.png",
+                "title":"HackTheBox",
+                "description": "As I continue my education in Computer Science, I plan on boosting my knowledge through the hack the box platform ",
+                "link":"View In Github"
+            }
+    ],
+    "testimonial": [
+        
+        {
+            "id":"1",
+            "count":"5",
+            "src": "./img/avatar-image.png",
+            "title":"Ahuse",
+            "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "author_name":"Dianne Russel",
+            "author_designation":"Starbucks"
+        },
+        {
+            "id":"2",
+            "count":"5",
+            "src": "./img/avatar-image-1.png",
+            "title":"Ahuse",
+            "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "author_name":"Kristin Watson",
+            "author_designation":"Louis Viotton"
+        },
+        {
+            "id":"3",
+            "count":"5",
+            "src": "./img/avatar-image-2.png",
+            "title":"Ahuse",
+            "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "author_name":"kathryn Murphy",
+            "author_designation":"McDonald's"
+        }
+    ]
+}
