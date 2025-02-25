@@ -39,15 +39,15 @@
             {
                 "id":"2",
                 "src": "./img/placeholder-image-1.png",
-                "title":"Certificates",
-                "description": "Currently, I hold a Security+ from CompTIA, and plan on receiving Net+ and Cysa+ by fall of 2025 to further my knowledge.",
+                "title":"Blog",
+                "description": "I am  planning on launching a blog that combines everything I do—from my challenges on Hack The Box and TryHackMe to my ongoing pursuit of cybersecurity certifications. Stay tuned for detailed insights, walkthroughs, and updates on my journey in the world of ethical hacking.",
                 "link":"View In Github"
             },
             {
                 "id":"3",
                 "src": "./img/placeholder-image-2.png",
-                "title":"HackTheBox",
-                "description": "As I continue my education in Computer Science, I plan on boosting my knowledge through the hack the box platform ",
+                "title":"Github",
+                "description": "My GitHub will cover the scripts and coding projects I'm working on—from automation tools to innovative software solutions. I document my coding journey with clear insights and explanations, showcasing my ongoing learning in programming and cybersecurity. ",
                 "link":"View In Github"
             }
     ],
