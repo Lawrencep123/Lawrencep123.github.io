@@ -5,7 +5,7 @@ export default function HeroSection() {
           <div className="hero--section--content">
             <p className="section--title">Hey, I'm Lawrence</p>
             <h1 className="hero--section--title">
-              <span className="hero--section-title--color"> Aspiring Pentester and Cloud Engineer | HTB Learner with a Focus on Network Security</span>{" "}
+              <span className="hero--section-title--color"> Computer Science Student | Aspiring Penetration Tester | HTB Learner with a Focus on Network Security</span>{" "}
               <br />
               {/* Add send list here for titles  */}
             </h1>

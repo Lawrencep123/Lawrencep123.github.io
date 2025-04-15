@@ -10,21 +10,21 @@
         {
             "id":"2",
             "src": "./img/tag-1.png",
-            "title":"Back-End",
-            "description": "Skilled in developing scalable server-side applications using Node.js, Express, and SQL."
+            "title":"Network Security (Home Lab)",
+            "description": "Hands-on practice securing networks with pfSense firewall, Kali Linux, and virtual machines."
 
         },
         {
             "id":"3",
             "src": "./img/feather-pen-2.png",
-            "title":"Cloud",
-            "description": "Proficient in configuring and managing networks, ensuring secure and efficient connectivity."
+            "title":"Penetration Testing",
+            "description": "Skilled in identifying vulnerabilities and exploiting weaknesses using platforms like HTB and TryHackMe."
         },
         {
             "id":"4",
             "src": "./img/feather-pen-1.png",
-            "title":"Pentesting",
-            "description": "Aspiring penetration tester learning the basics of network security and ethical hacking. Exploring tools like Nmap, Burp Suite, and Metasploit while building skills in identifying vulnerabilities and protecting systems."
+            "title":"Vulnerability Assessment",
+            "description": "Proficient with security tools such as Metasploit, Wireshark, and applying Security+ principles to assess risks."
         }
     ],
     "portfolio": [
